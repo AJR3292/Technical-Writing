@@ -3,10 +3,13 @@
 ### How to withdraw money from Automated Teller Machine (ATM):
 #### How to withdraw money from Automated Teller Machine (ATM):
 ##### How to withdraw money from Automated Teller Machine (ATM):
+
 In an ATM machine, insert your bank (Debit / Credit) card in the Card Reader (see above image for reference) mostly which is present below or beside the screen.
+
 Make sure the card chip or black strip is aligned with the card reader as shown on the image on the machine or screen.
         
 Follow the instructions on the screen.
+------------------------------------------------------------------------------------------------------
 Select your language.
 Enter your Personal Identification Number (PIN) four digit number.
 Do not share your PIN with anyone.
