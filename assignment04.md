@@ -23,7 +23,7 @@ Select *Withdrawal*.
 
 Enter the preferred amount you want to 'withdraw'
 Example:100 / 200 / 500.
-10000 INR is the maximum amount you can **-withdraw-** in one transaction.
+10000 INR is the maximum amount you can **withdraw** in one transaction.
 
 Collect your cash from the 💰 dispenser.
 
