@@ -12,6 +12,10 @@ Follow the instructions on the screen.
 ------------------------------------------------------------------------------------------------------
 Select your __language__.
 
+- [ ] List 1
+- [x] List 2
+- [x] List 3
+
 Enter your Personal Identification Number (PIN) four digit number.
 Do not share your **PIN** with ~~anyone~~.
 
