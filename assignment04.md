@@ -10,9 +10,9 @@ Make sure the card chip or black strip is aligned with the card reader as shown 
         
 Follow the instructions on the screen.
 ------------------------------------------------------------------------------------------------------
-Select your language.
+Select your __language__.
 Enter your Personal Identification Number (PIN) four digit number.
-Do not share your PIN with anyone.
+Do not share your **PIN** with anyone.
 
 Select transaction type to withdraw money.
 Select Withdrawal.
