@@ -15,8 +15,8 @@ Select your __language__.
 Enter your Personal Identification Number (PIN) four digit number.
 Do not share your **PIN** with anyone.
 
-Select transaction type to withdraw money.
-Select Withdrawal.
+Select transaction type to withdraw _money_.
+Select *Withdrawal*.
 
 ## Select an account 
 (savings / current )
