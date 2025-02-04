@@ -13,7 +13,7 @@ Follow the instructions on the screen.
 Select your __language__.
 
 Enter your Personal Identification Number (PIN) four digit number.
-Do not share your **PIN** with anyone.
+Do not share your **PIN** with ~~anyone~~.
 
 Select transaction type to withdraw _money_.
 Select *Withdrawal*.
@@ -21,11 +21,11 @@ Select *Withdrawal*.
 ## Select an account 
 (savings / current )
 
-Enter the preferred amount you want to withdraw 
+Enter the preferred amount you want to 'withdraw'
 Example:100 / 200 / 500.
-10000 INR is the maximum amount you can withdraw in one transaction.
+10000 INR is the maximum amount you can **-withdraw-** in one transaction.
 
-Collect your cash from the cash dispenser.
+Collect your cash from the 💰 dispenser.
 
 Note: Take your card (Credit / Debit) back from the card reader and collect the transaction receipt (if you choose to print). Make sure the entire transaction is completed before leaving the ATM machine.
-Session 3: 
+thank you 😃
