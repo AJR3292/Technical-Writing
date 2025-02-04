@@ -18,7 +18,7 @@ Do not share your **PIN** with anyone.
 Select transaction type to withdraw money.
 Select Withdrawal.
 
-Select an account 
+## Select an account 
 (savings / current )
 
 Enter the preferred amount you want to withdraw 
